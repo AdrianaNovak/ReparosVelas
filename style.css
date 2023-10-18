@@ -15,5 +15,9 @@ p{
 }
 
 strong{
-    color: red
+    color: red;
+}
+
+em strong{
+    color:blueviolet;
 }
