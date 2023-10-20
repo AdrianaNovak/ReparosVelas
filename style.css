@@ -29,3 +29,7 @@ strong{
 em strong{
     color:blueviolet;
 }
+
+.itens{
+    font-style: italic;
+}
