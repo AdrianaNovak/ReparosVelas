@@ -41,19 +41,18 @@ em strong{
     background: #fff;
 }
 
-.barco1{
+#barco1{
     width: 10%;
 }
 
-.barco2{
+#barco2{
     width: 30%;
 }
 
-.barco3{
+#barco3{
     width: 30%;
 }
 
-.barco4{
+#barco4{
     width: 30%;
-}
 }
