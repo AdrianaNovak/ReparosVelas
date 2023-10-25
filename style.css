@@ -6,12 +6,17 @@ body{
     width: 100%;
 }
 
+.titulo-principal{
+    font-size: 30px;
+    padding:30px;
+}
+
 .principal{
     background-color: aquamarine;
     padding:30px;
 }
 
-h1{
+.titulo-centralizado{
     text-align: center;
     font-size: 30px;
     color: rgb(76, 0, 255);
@@ -40,9 +45,6 @@ em strong{
     border:10px solid #000;
 }
 
-h2{
-    text-align: center;
-}
 ul{
     display: inline-block;
     vertical-align: top;
