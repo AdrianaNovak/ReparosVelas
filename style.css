@@ -43,16 +43,20 @@ em strong{
 
 #barco1{
     width: 10%;
+    height: 10%;
 }
 
 #barco2{
-    width: 30%;
+    width: 30%; 
+    height: 30%;
 }
 
 #barco3{
     width: 30%;
+    height: 30%;
 }
 
 #barco4{
     width: 30%;
+    height: 30%;
 }
