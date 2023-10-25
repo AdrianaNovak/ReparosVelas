@@ -33,12 +33,23 @@ em strong{
     color:blueviolet;
 }
 
-.itens{
-    font-style: italic;
-}
-
 .opcoes{
     background: #fff;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 10%;
+}
+
+.itens{
+    font-style: italic;
 }
 
 .fotos{
