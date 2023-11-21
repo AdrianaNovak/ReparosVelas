@@ -52,8 +52,20 @@ ul{
     margin-right: 10%;
 }
 
+ol{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 10%;
+}
+
 .itens{
     font-style: italic;
+}
+
+.itens2{
+    font-style: italic;
+    text-align: center;
 }
 
 .fotos{
