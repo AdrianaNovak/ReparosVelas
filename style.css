@@ -17,7 +17,7 @@ body{
 }
 
 .conteudo{
-    background-color: rgba(0, 204, 255, 0.219);
+    background-image: linear-gradient(rgba(0, 204, 255, 0.219), rgb(255, 127, 206) ) ;
 }
 
 .principal{
