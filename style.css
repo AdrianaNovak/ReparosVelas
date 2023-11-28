@@ -74,6 +74,7 @@ ol{
 
 .itens{
     font-style: italic;
+    display: inline-block;
 }
 
 .itens2{
