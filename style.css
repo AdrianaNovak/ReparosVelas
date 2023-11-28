@@ -74,12 +74,12 @@ ol{
 
 .itens{
     font-style: italic;
-    display: inline-block;
 }
 
 .itens2{
     font-style: italic;
     text-align: center;
+    display: inline-block;
 }
 
 .fotos{
