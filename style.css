@@ -22,18 +22,18 @@ body{
 }
 
 .conteudo{
-    background-image: linear-gradient(rgba(0, 204, 255, 0.219), rgb(127, 129, 255) ) ;
+    background-image: linear-gradient(rgba(0, 204, 255, 0.219), rgb(11, 12, 61) ) ;
 }
 
 .principal{
-    background-color: rgb(127, 129, 255);
+    background-color: rgb(201, 201, 230);
     padding:30px;
 }
 
 .titulo-centralizado{
     text-align: center;
     font-size: 30px;
-    color: rgb(76, 0, 255);
+    color: rgb(0, 0, 0);
 }
 
 p{
