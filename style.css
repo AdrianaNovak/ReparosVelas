@@ -66,6 +66,7 @@ ul{
 }
 
 ol{
+    color: aliceblue;
     display: inline-block;
     vertical-align: top;
     width: 20%;
