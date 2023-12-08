@@ -8,6 +8,10 @@ header{
     position: relative;
     width: 940px;
     margin: 0 auto;
+    border-color: #000;
+    border-width: 2px;
+    border-radius: 10px;
+    border-style: dotted;
 }
 
 nav {
@@ -42,6 +46,11 @@ nav a{
     vertical-align: top;
     background: #ccc;
     margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000;
+    border-bottom-width: 10px;
+    border-radius: 10px;
 }
 
 .produtos h2{
@@ -51,8 +60,6 @@ nav a{
 
 .produto-descricao{
     font-size: 15px;
-    padding: 30px, 20px;
-    box-sizing: border-box;
 }
 
 .produto-preco{
