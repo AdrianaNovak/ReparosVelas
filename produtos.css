@@ -34,7 +34,7 @@ nav a{
     text-decoration: none;
 }
 
-.nav a:hover{
+nav a:hover{
     color:#c78c19;
     text-decoration: underline;
 }
@@ -86,3 +86,7 @@ nav a{
     margin: 10px 0 0;
 }
 
+footer{
+    text-align: center;
+    background-color: url("bg.png");
+}
