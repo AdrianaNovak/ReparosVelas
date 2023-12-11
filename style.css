@@ -100,7 +100,7 @@ footer{
 
 main{
     width: 940px;
-    margin: 50px auto;
+    margin: 0 25px;
 }
 
 form{
@@ -118,4 +118,8 @@ form label, form p{
     margin: 0 0 20px;
     padding: 10px 25px;
     width: 50%;
+}
+
+.checkbox{
+    margin: 20px 0;
 }
