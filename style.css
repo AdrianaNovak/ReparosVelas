@@ -24,6 +24,7 @@ nav {
 nav li{
     display:inline;
     margin: 0 0 0 15px;
+    transform: rotate(-10deg);
 }
 
 nav a{
@@ -133,10 +134,26 @@ form label, form legend{
     font-size: 18px;
     border: none;
     border-radius: 15px;
-    transition: 1s bachground;
+    transition: 1s all;
     cursor: pointer;
 }
 
 .enviar:hover{
     background: rgb(255, 102, 0);
+    transform: scale(1.2);
+}
+
+table{
+    margin: 20px 0 40px;
+}
+
+thead{
+    background: #555;
+    color: white;
+    font-weight: bold;
+}
+
+td, th{
+    border: 1px solid #000;
+    padding: 8px 15px;
 }
