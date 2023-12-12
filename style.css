@@ -187,15 +187,19 @@ td, th{
     font-style: italic;
 }
 
+.mapa{
+    padding: 3em 0;
+}
+
+.mapa p{
+    text-align: center;
+    margin: 0 0 2em;
+}
+
 .problemas{
     width: 150px;
     float: left;
     margin: 0 20px 20px 0;
-}
-
-.fotos{
-    width: 15%;
-    height: 15%;
 }
 
 .missao{
@@ -203,11 +207,10 @@ td, th{
     font-size: 2em;
 }
 
-
-
-
-/"antigo*/"
-
+.fotos-opcoes{
+    width: 15%;
+    height: 15%;
+}
 
 .opcoes{
     padding: 20px;
@@ -229,23 +232,8 @@ ol{
     margin-right: 10%;
 }
 
-.itens{
+.itens-opcoes{
     font-style: italic;
-}
-
-.itens2{
-    font-style: italic;
-    text-align: center;
-    
-}
-
-.mapa{
-    padding: 3em 0;
-}
-
-.mapa p{
-    text-align: center;
-    margin: 0 0 2em;
 }
 
 .video{
