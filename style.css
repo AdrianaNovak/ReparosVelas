@@ -157,3 +157,73 @@ td, th{
     border: 1px solid #000;
     padding: 8px 15px;
 }
+
+/* css da página inicial*/
+
+.banner{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+}
+
+.principal p{
+    margin: 0 0 1em;
+}
+
+.principal strong{
+    font-weight: bold;
+}
+
+.principal em{
+    font-style: italic;
+}
+
+.fotos{
+    width: 15%;
+    height: 15%;
+}
+
+#missao {
+    font-size: 40px;
+}
+
+
+
+
+/"antigo*/"
+
+
+.opcoes{
+    padding: 20px;
+    border:10px solid #000;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 10%;
+}
+
+ol{
+    color: aliceblue;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 10%;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.itens2{
+    font-style: italic;
+    text-align: center;
+    
+}
