@@ -257,7 +257,7 @@ ol{
     font-weight: bold;
 }
 
-.itens::before{
+.itens:before{
     content: "★";
 }
 
