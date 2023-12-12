@@ -195,7 +195,7 @@ td, th{
 
 .mapa{
     padding: 3em 0;
-}
+    background: linear-gradient(#FEFEFE, rgba(51, 51, 214, 0.705));
 
 .mapa-conteudo{
     width: 940px;
@@ -255,6 +255,10 @@ ol{
 
 .itens-opcoes:first-letter{
     font-weight: bold;
+}
+
+.itens::before{
+    content: "★";
 }
 
 .video{
