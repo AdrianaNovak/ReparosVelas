@@ -234,6 +234,11 @@ ol{
 
 .itens-opcoes{
     font-style: italic;
+    line-height: 1.5;
+}
+
+.itens-opcoes:first-letter{
+    font-weight: bold;
 }
 
 .video{
