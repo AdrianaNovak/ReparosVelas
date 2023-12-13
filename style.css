@@ -104,7 +104,7 @@ footer{
 footer img{
     opacity: 4;
     transition: 400ms;
-    box-shadow: 10px 10px 5px #fefefe;
+    box-shadow: 10px 10px 5px #fefefe -10px -10px blue;
 }
 
 .copyright{
