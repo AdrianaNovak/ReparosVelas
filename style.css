@@ -224,12 +224,12 @@ td, th{
 }
 
 .conteudo-opcoes{
-    width: 940px;
-    margin: 0 auto;
+    /*width: 940px;
+    margin: 0 auto;*/
 }
 
 .fotos-opcoes{
-    width: calc(15% - (10px));
+    width: 15%;
     height: 15%;
 }
 
