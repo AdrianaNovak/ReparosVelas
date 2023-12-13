@@ -181,13 +181,13 @@ td, th{
     margin: 0 0 1em;
 }
 
-.principal strong{
+/*.principal strong{
     font-weight: bold;
 }
 
 .principal em{
     font-style: italic;
-}
+}*/
 
 .missao{
     text-align: left;
@@ -219,7 +219,7 @@ td, th{
     padding: 20px;
 }
 
-/*ul{
+ul{
     display: inline-block;
     vertical-align: top;
     width: 20%;
