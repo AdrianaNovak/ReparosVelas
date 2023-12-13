@@ -228,9 +228,9 @@ td, th{
     margin: 0 auto;
 }
 
-#fotos-opcoes{
-    width: 15%;
-    height: 15%;
+.fotos-opcoes{
+    width: 100px;
+    height: 100px;
 }
 
 ul{
