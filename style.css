@@ -186,7 +186,6 @@ td, th{
     font-size: 2em;
     margin: 0 0 1em;
     clear: left;
-    text-shadow: 2px 2px blue;
 }
 
 .principal p{
@@ -268,4 +267,22 @@ ul{
 .video p{
     text-align: center;
     margin: 1em;
+}
+
+@media screen and (max-width:480px){
+    .caixa, .principal, .conteudo-opcoes, .mapa-conteudo, .video {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    .itens-opcoes, .fotos-opcoes {
+        width: 100%;
+    }
 }
