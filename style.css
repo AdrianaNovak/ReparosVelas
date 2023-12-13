@@ -177,8 +177,8 @@ td, th{
 .principal{
     padding: 3em 0;
     background: #fefefe;
-    width: 940px;
-    margin: 0 auto;
+    /*width: 940px;
+    margin: 0 auto;*/
 }
 
 .principal p{
